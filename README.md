@@ -1,6 +1,6 @@
 ### Bram Ogus ###
 
-High School Senior, skilled in Java, C++, and Python, knowledgable in JavaScript, C# for Unity, and Dart.
+High School Senior, skilled in Rust, Python, and Go
 
 <!---
 GreyAerin/GreyAerin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
