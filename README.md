@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greyaerin&label=Profile%20views&color=0e75b6&style=flat-square" alt="greyaerin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bram_ogus" target="blank"><img src="https://img.shields.io/twitter/follow/bramogus?logo=twitter&style=for-the-badge" alt="bram_ogus" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bram_ogus" target="blank"><img src="https://img.shields.io/twitter/follow/bram_ogus?logo=twitter&style=for-the-badge" alt="bram_ogus" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript**
 
