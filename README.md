@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bram Ogus</h1>
-<h3 align="center">A passionate Computer Science Student from Canada, currently working as a research assistant at McMaster University</h3>
+<h3 align="center">A passionate Computer Science Student from Canada, currently studying at Dalhousie University for a Degree in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greyaerin&label=Profile%20views&color=0e75b6&style=flat-square" alt="greyaerin" /> </p>
 
