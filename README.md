@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bram Ogus</h1>
-<h3 align="center">A passionate Computer Science Student from Canada, currently studying at Dalhousie University for a Degree in Computer Science</h3>
+<h3 align="center">A passionate student from Canada, currently studying at Dalhousie University for a Degree in Mathematics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greyaerin&label=Profile%20views&color=0e75b6&style=flat-square" alt="greyaerin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bram_ogus" target="blank"><img src="https://img.shields.io/twitter/follow/bram_ogus?logo=twitter&style=for-the-badge" alt="bram_ogus" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Julia**
 
 - 📫 How to reach me **ogus.bram@gmail.com**
 
